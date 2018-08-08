@@ -1,0 +1,10 @@
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\bin\Debug\Linlin-Han_Lab06_Ex01.exe.config
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\bin\Debug\Linlin-Han_Lab06_Ex01.exe
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\bin\Debug\Linlin-Han_Lab06_Ex01.pdb
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin-Han_Lab06_Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin_Han_Lab06_Ex01.Form1.resources
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin_Han_Lab06_Ex01.Properties.Resources.resources
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin-Han_Lab06_Ex01.csproj.GenerateResource.Cache
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin-Han_Lab06_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin-Han_Lab06_Ex01.exe
+C:\Users\Linlin\Desktop\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Sec-003\Linlin-Han_Lab06_Ex01\obj\Debug\Linlin-Han_Lab06_Ex01.pdb
