@@ -16,7 +16,7 @@ namespace Linlin_Han_Lab06_Ex01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Assignment6_LinlinHan());
         }
     }
 }
